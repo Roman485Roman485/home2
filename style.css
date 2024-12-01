@@ -1,0 +1,9 @@
+.box {
+	border: 3px dotted rgb(255, 0, 0);
+	margin: 20px auto;
+	padding: 20px;
+	text-align: left;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
